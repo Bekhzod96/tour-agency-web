@@ -1,0 +1,14 @@
+{
+  "name": "tour-agency",
+  "version": "1.0.0",
+  "description": "Langding Page of Tour Agency(not depend on expternal source)",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Bekhzod",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
