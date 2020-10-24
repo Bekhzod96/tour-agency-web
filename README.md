@@ -1,8 +1,8 @@
 # Tour Agency
 
-> This web App create used <a href='https://sass-lang.com/'>Sass</a> -<i>syntactically awesome style sheets</i> which would be converted to pure css file which would be used to styling page components on its places.
+> This web App create used <a href='https://sass-lang.com/'>Sass</a> -<i>syntactically awesome style sheets</i> which would be converted to pure css file which then would be used to styling page components on its places. THis oparation done by Node-Sass complier but in order to see the project it is enoght to open <b>index.html</b> file.
 
-<!-- ![image](./static/start.png) -->
+![image](./img/final-result.gif)
 
 ## Built With
 
