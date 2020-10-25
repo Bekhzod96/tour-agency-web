@@ -66,6 +66,9 @@ $ sudo npm install -g live-server
 # Run Live-Server
 $ live-server
 
+# Build Ready Code
+$ npm run build
+
 ## You are good to go to modify the files and all changes would be render to http://127.0.0.1:8080- Go to that link to see changes.
 
 ## To Understand more take a look File Structure section
