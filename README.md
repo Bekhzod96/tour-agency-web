@@ -5,7 +5,6 @@
 In this web app created advanced layout using Css. Final result demonstration
 
 ![image](./img/final-result.gif)
-<img src='./img/phone-result.png' width='360px' style="float:right">
 
 > This web App create used HTML + <a href='https://sass-lang.com/'>Sass</a> <i>syntactically awesome style sheets</i> which would be converted to pure css file which then would be used to styling page components on its places. THis oparation done by Node-Sass complier but in order to see the project it is enoght to open <b>index.html</b> file.
 
@@ -112,3 +111,7 @@ If you got until here, show your love hitting the ⭐️ button, I'd really appr
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
+
+## Mobile Screen view
+
+<img src='./img/phone-result.png' />
